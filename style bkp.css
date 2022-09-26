@@ -1,0 +1,220 @@
+body{
+    background : #00d9ff;
+}
+
+.itens{
+    font-style: italic;
+    text-align: center;
+    color: #ffffff;
+}
+
+h2{
+    text-align: center;
+    padding-top: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    font-style: oblique;
+}
+
+.imagembeneficios{
+    width: 60%;
+
+}
+
+.utensilios{
+
+    width: 150px;
+    float: left;
+    margin: 0 20px 20px 0;
+
+
+}
+
+.beneficios{
+    background: #000000;
+    text-transform: uppercase;
+    color: black;
+    text-decoration:none;
+    font-weight: bolder;
+    font-size: 22px;
+
+}
+
+.bolas{
+    text-align: center;
+}
+    
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 28%
+
+}
+
+.cor{
+    color: #000000;
+    
+}
+
+#missao{
+    font-size: 20px;
+
+    font-weight: bolder;
+
+}
+
+
+
+.titulo-principal em{
+    font-style: italic;
+}
+
+.titulo-centralizado p2{
+
+
+    margin: 0 0 2em;
+  
+}
+   
+
+color{
+    color: #ffffff;
+}
+
+#centraliza{
+    text-align: center;
+}
+
+
+
+.produtos li:hover h2{
+    font-size: 40px;
+
+}
+
+.footer{
+    background-image: url(bg.jpg);
+    text-align: center;
+    color: #00ffff;
+    margin: auto;
+    display: block;
+    margin-top: 20px;
+
+}
+  
+.barbaazul{
+    display: inline;
+    margin: 0 0 0 350px;
+    
+}
+
+.imgpreto{
+    padding: 200px;
+    
+}
+ 
+/*css da pagina princal */
+
+
+
+.banner{
+    width:100%;
+    margin: 0 0 2em;
+    font-size: 2em;
+}
+
+.titulo-principal{
+
+ text-align: center;
+
+ margin: 0 0 2em;
+
+ clear: left;
+
+
+}
+
+.titulo-principal p{
+    margin: 0 0 1em;
+
+}
+
+.titulo-principal strong{
+    font-weight: bolder;
+
+
+}
+
+
+.titulo-principal h2{
+    margin: 0 0 2em;
+    font-size: 2em;
+    
+    
+
+}
+
+.titulo-centralizado{
+    font-size: 2em;
+    margin: 1em
+}
+
+header{
+    background: #00d9ff;
+    padding: 30px 0;
+}
+.box{
+    position: relative;
+    width: 140px;
+    
+    margin: 0 0 2em;
+    font-size: 2em;
+
+}
+
+.opa{
+    text-transform: uppercase;
+    color: black;
+    text-decoration:none;
+    font-weight: bolder;
+    font-size: 22px;
+    
+}
+
+nav a{
+    text-transform: uppercase;
+    color: black;
+    text-decoration:none;
+    font-weight: bolder;
+    font-size: 22px;
+}
+
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+.celta{
+    margin: 0 0 0 -1000px;
+    
+}
+
+.textinho{
+    margin: 0 0 0 -600px;
+    inline-size: auto;
+   
+}
+
+
+.copy{
+
+    margin: 0 0 0 -190px;
+
+}
